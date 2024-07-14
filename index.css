@@ -4,3 +4,11 @@ h1 {
   color: rgb(250, 184, 97);
   background-image: url(https://images.pexels.com/photos/225250/pexels-photo-225250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
 }
+
+h2 {
+  text-align: center;
+}
+
+ol {
+  text-align: center;
+}
